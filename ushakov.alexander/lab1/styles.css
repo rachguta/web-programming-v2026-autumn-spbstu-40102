@@ -14,7 +14,7 @@
   align-items: baseline;
   padding-bottom: 6px;
   margin-bottom: 16px;
-  border-bottom: 1px solid #292828;
+  border-bottom: 1px solid #000;
 }
 
 .menu-item:last-child {
